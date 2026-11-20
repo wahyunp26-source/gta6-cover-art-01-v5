@@ -1,7 +1,8 @@
 # Seven Tides Cover Studio
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/gta6-cover-art-01)
-[![live](https://img.shields.io/badge/live-makefun.sh-ff5e7a)](https://gta6cover-7b2c1395.makefun.sh/)
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/wahyunp26-source/gta6-cover-art-01-v5/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/wahyunp26-source/gta6-cover-art-01-v5/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
 Turn your photos into GTA-style cover art: 7 panels, 7 faces, 8 layouts,
 8 grades (including Painted Ink), a striped retro-chrome title with a script
